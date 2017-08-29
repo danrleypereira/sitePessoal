@@ -4,12 +4,12 @@
 (function() {
 	var isLocal = !!window.location.port,
 		$comments = document.getElementById('disqus_thread'),
-		disqus_shortname = 'mattycollins',
+		disqus_shortname = 'danrleywillyan',
 		disqus_developer = 0;
 
 		if (isLocal) {
 			disqus_developer = 1;
-			disqus_shortname = 'mattycollinslocal';
+			disqus_shortname = 'danrleywillyanlocal';
 		}
 
 	if ($comments) {

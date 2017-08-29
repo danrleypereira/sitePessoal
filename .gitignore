@@ -12,3 +12,7 @@ _site/
 # MC specific
 *.map
 notes.md
+
+# firebase files
+.firebaserc
+.firebase.json

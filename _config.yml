@@ -1,10 +1,10 @@
 source: "_source"
 destination: "_site"
-permalink : /blerg/:categories/:title
-timezone : Australia/Melbourne
+permalink : /willyan/:categories/:title
+timezone : America/Sao_Paulo
 markdown: kramdown
 highlighter : rouge
-paginate_path: "/blerg/page:num/"
+paginate_path: "/willyan/page:num/"
 exclude: ["*.scss", "theme/mohawk/scripts/"]
 
 

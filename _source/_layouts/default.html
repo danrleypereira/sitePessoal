@@ -15,7 +15,7 @@
 			<header class="blog__meta gamma gamma--line">
 				<span class="gamma__text">
 					{{ page.date | date_to_long_string }}
-					
+
 					{% if page.tags.size > 0 %}
 						<small class="meta__tags"> <i class="icon-tags"></i> Tagged in: {{ page.tags | array_to_sentence_string }}</small>
 					{% endif %}
@@ -34,7 +34,7 @@
 						<div class="related__list">
 							{% for related__item in page.related %}
 								{% assign post__related = related__item | downcase %}
-								
+
 								{% for post in site.posts %}
 									{% assign post__title = post.title | downcase %}
 										{% if post__title == post__related %}
@@ -79,7 +79,7 @@
 						</li>
 					{% endfor%}
 				</ol>
-				<a href="/blerg/" class="link">
+				<a href="/willyan/" class="link">
 					more entries
 					<i class="icon-chevron-sign-right"></i>
 				</a>

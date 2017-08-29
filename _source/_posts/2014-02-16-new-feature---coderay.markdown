@@ -15,7 +15,7 @@ icons:
 After some behind-the-scenes drama, syntax highlighting is finnaly running!
 <!-- /intro -->
 
-This blerg began in a Wandows environment, meaning the default <cite>Pygments</cite> syntax engine wouldn't work[^1]. Now that work is no done on a Mac I could finally enable pygments and have all the features that Jekyll has, right?
+This willyan began in a Wandows environment, meaning the default <cite>Pygments</cite> syntax engine wouldn't work[^1]. Now that work is no done on a Mac I could finally enable pygments and have all the features that Jekyll has, right?
 
 ## pygments : true
 Never has one line caused so much grief. Pygments wouldn't work with liquid's `highlight`, so that had to get replaced with codeblocks, which I couldn't get working working. After a while a fell into this fun loop:

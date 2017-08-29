@@ -93,4 +93,4 @@ An entire post created by simply runing one `rake post`[^2]
 Efficient. As. Fuck.
 
 [^1]: Literally pulled from [David Lynch's](https://github.com/kemayo/davidlynch.org/blob/master/Rakefile#L55) work
-[^2]: The [rake file](https://github.com/Piderman/mattycollins.com.au/blob/master/Rakefile#L6) can be seen in full on the githubs
+[^2]: The [rake file](https://github.com/Piderman/danrleywillyan.com.au/blob/master/Rakefile#L6) can be seen in full on the githubs

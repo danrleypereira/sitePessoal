@@ -31,7 +31,7 @@ Archive:
  ✔ create sitemap xml @done (13-11-29 23:43) @project(next task)
  ✔ better "related" posts by adding to YAML or via category @done (13-11-29 23:43) @project(next task)
  ✔ add pagination to /blogs @done (13-11-24 16:48) @project(next task)
- ✔ 301 for /blerg.html to /blerg/ @done (13-11-24 15:53) @project(scss)
+ ✔ 301 for /willyan.html to /willyan/ @done (13-11-24 15:53) @project(scss)
  ✔ test @done (13-11-24 15:40) @project(scss)
  ✔ style @done (13-11-24 15:40) @project(scss)
  ✔ remove rakefile from _site @done (13-11-23 00:22) @project(next task)

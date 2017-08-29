@@ -6,7 +6,7 @@
 		},
 		{
 			"text" : "Blog",
-			"url" : "/blerg/"
+			"url" : "/willyan/"
 		},
 		{
 			"text" : "About",
@@ -17,12 +17,12 @@
 		{
 			"name" : "github",
 			"cssClass" : "github",
-			"url" : "https://github.com/piderman"
+			"url" : "https://github.com/danrleywillyan"
 		},
 		{
 			"name" : "twitter",
 			"cssClass" : "twitter",
-			"url" : "https://twitter.com/cmrPyro"
+			"url" : "https://twitter.com/DanrleyWillian"
 		}
 	]
 }

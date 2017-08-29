@@ -28,7 +28,7 @@ This site had an interesting past, looking back over two years this site has see
 * ditching Octopress for Jekyll
 * another design
 
-Back in September a new design was made and shortly after code was being churned out on a [new branch](https://github.com/Piderman/mattycollins.com.au/tree/bravo). The new design this time was fantastic motivation for committing myself to actually finish what I started, and two months (ish) later here we are!
+Back in September a new design was made and shortly after code was being churned out on a [new branch](https://github.com/Piderman/danrleywillyan.com.au/tree/bravo). The new design this time was fantastic motivation for committing myself to actually finish what I started, and two months (ish) later here we are!
 
 There is a [behind the scenes]({% post_url 13-09-29-content-and-color %}) series of posts about for those interested, which details the progress and failures of the site.
 

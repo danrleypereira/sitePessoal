@@ -558,10 +558,10 @@ FileETag None
 # ------------------------------------------------------------------------------
 
 # updated the category of anthologies
-Redirect 301 /blerg/the-making-of/content-and-color/ http://mattycollins.com.au/blerg/anthology-of-interest/content-and-color/
+Redirect 301 /willyan/the-making-of/content-and-color/ http://danrleywillyan.com.au/willyan/anthology-of-interest/content-and-color/
 
 # blog removed from root for paging
-Redirect 301 /blerg.html http://mattycollins.com.au/blerg/
+Redirect 301 /willyan.html http://danrleywillyan.com.au/willyan/
 
 # about now has two sections
-Redirect 301 /about.html htpp://mattycollins.com.au/about/this-guy.html
+Redirect 301 /about.html htpp://danrleywillyan.com.au/about/this-guy.html

@@ -1,11 +1,11 @@
 {
-  "name": "www.mattycollins.com.au",
+  "name": "www.danrleywillyan.com.au",
   "version": "1.0.1",
-  "description": "The website of Matty Collins",
-  "author": "Matty Collins",
+  "description": "The website of Danrley Willyan",
+  "author": "Danrley Willyan",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Piderman/mattycollins.com.au"
+    "url": "https://github.com/Piderman/danrleywillyan.com.au"
   },
   "devDependencies": {
     "browser-sync": "~2.8.2",

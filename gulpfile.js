@@ -119,8 +119,8 @@ gulp.task('rsync', ['jekyll:prod'], function() {
 		incremental: true,
 		clean: true,
 		root: '_site',
-		destination: 'www/mattycollins.com.au/_site',
-		hostname: 'mattycollins.com.au',
+		destination: 'www/danrleywillyan.com.au/_site',
+		hostname: 'danrleywillyan.com.au',
 		progress: true
 	}));
 });
