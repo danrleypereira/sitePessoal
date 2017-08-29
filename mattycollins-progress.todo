@@ -1,0 +1,8 @@
+'jekyll:prod' errored after 6.69 s
+
+Error in plugin 'gulp-shell'
+( http://tips.tutorialhorizon.com/2017/05/18/error-in-plugin-gulp-shell/ )
+
+Command `jekyll build --config _config_production.yml` failed with exit code 1
+
+
