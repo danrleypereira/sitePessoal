@@ -1,0 +1,76 @@
+scss:
+☐ maintain cleaner structure
+☐ color vars
+
+next task:
+  ☐ style coderay outputs
+  ☐ convert remain posts with coderay
+  ☐ scss syntax for coderay
+
+future ideas:
+  ☐ skills page / resumé
+  ☐ category landing page
+  ☐ add "lab coat" sciency design for nerd-heavy posts
+  ☐ add search to 404
+  ☐ add content
+  ☐ more posts about building site
+  ☐ homepage intro panel to pull a recent update (new job, something classic)
+
+issues:
+ ☐ ie8 max-width / padding issue
+
+ resume:
+  ☐ create interactive resume showing my skills as a developer
+  ☐ stats for online learning, commits / repos
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+Archive:
+ ✔ add target states to footnotes @done (13-12-13 23:39) @project(next task)
+ ✔ make related more call-to-actiony @done (13-12-12 23:03) @project(next task)
+ ✘ move related to bottom of current post for better call to action? @cancelled (13-11-29 23:44) @project(next task)
+ ✔ create sitemap xml @done (13-11-29 23:43) @project(next task)
+ ✔ better "related" posts by adding to YAML or via category @done (13-11-29 23:43) @project(next task)
+ ✔ add pagination to /blogs @done (13-11-24 16:48) @project(next task)
+ ✔ 301 for /blerg.html to /blerg/ @done (13-11-24 15:53) @project(scss)
+ ✔ test @done (13-11-24 15:40) @project(scss)
+ ✔ style @done (13-11-24 15:40) @project(scss)
+ ✔ remove rakefile from _site @done (13-11-23 00:22) @project(next task)
+ ✔ update site w new post @done (13-11-20 22:47) @project(next task)
+ ✔ 301's for category restructure @done (13-11-20 22:44) @project(next task)
+ ✘ workflow from draft to publish? @cancelled (13-11-17 21:47) @project(next task)
+ ✔ rake file for production @done (13-11-17 21:47) @project(next task)
+ ✔ get prod script to delete map files @done (13-11-17 21:47) @project(next task)
+ ✔ rake file for new posts as draft (draft.md is template?) @done (13-11-17 21:46) @project(next task)
+ ✔ add disqus @done (13-11-10 12:46) @project(next task)
+ ✔ add robots and humans.txt @done (13-11-09 19:03) @project(next task)
+ ✔ page not found @done (13-11-09 17:15) @project(next task)
+ ✔ 404 page @done (13-11-09 17:15) @project(next task)
+ ✘ werb derv stuff i use @cancelled (13-11-07 23:26) @project(posts)
+ ✘ localhost VS device testing jS @cancelled (13-11-07 23:26) @project(posts)
+ ✘ "baby got neck" for launch @cancelled (13-11-07 23:26) @project(posts)
+ ✔ un-hang lists @done (13-11-06 23:32) @project(next task)
+ ✔ "tagged in" appears to have broken w .gamma update @done (13-11-06 23:28) @project(next task)
+ ✔ footnote icon isn't centered @done (13-09-30 23:57) @project(issues)
+ ✔ hung quotes/lists die on mobile @done (13-09-30 23:50) @project(issues)
+ ✔ futurama filler text w fill murray @done (13-09-30 22:31) @project(posts)
+ ✔ skip to content @done (13-09-29 16:10) @project(next task)
+ ✔ /about gutters haven't been inverted @done (13-09-29 15:36) @project(issues)
+ ✔ make giraffe transparent on mob @done (13-09-29 15:14) @project(next task)
+ ✔ check compiled css is ignored @done (13-09-29 15:14) @project(next task)
+ ✔ side panel @done (13-09-26 23:57) @project(next task)
+ ✔ extra "spans--2" on blog list @done (13-09-26 23:39) @project(next task)
+ ✔ remove sourcemap from git @done (13-09-26 18:16)
+ ✔ quotes @done (13-09-26 17:45) @project(next task)
+ ✔ blog lists @done (13-09-26 17:18) @project(next task)
+ ✔ content header @done (13-09-26 00:22) @project(next task)
+ ✔ states @done (13-09-25 23:42) @project(issue 12)
+ ✔ links @done (13-09-25 23:42) @project(issue 12)
+ ✔ blog list @done (13-09-25 23:33) @project(issue 12)
+ ✔ add 'read more' @done (13-09-25 23:33) @project(issue 12)
+ ✘ format date @cancelled (13-09-25 23:21) @project(issue 12)
+ ✔ content @done (13-09-25 23:15) @project(issue 12)
+ ✔ set max length for content @done (13-09-24 01:28) @project(content)
+ ✔ sig @done (13-09-24 00:07) @project(issue 12)
+ ✔ footer @done (13-09-24 00:07) @project(issue 12)
+ ✔ main @done (13-09-23 23:49) @project(issue 12)
+✔ headers @done (13-09-23 23:49) @project(issue 12)
