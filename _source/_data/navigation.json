@@ -1,7 +1,7 @@
 {
 	"pages" : [
 		{
-			"text" : "Home",
+			"text" : "Inicio",
 			"url" : "/"
 		},
 		{
@@ -9,7 +9,7 @@
 			"url" : "/willyan/"
 		},
 		{
-			"text" : "About",
+			"text" : "Sobre",
 			"url" : "/about/"
 		}
 	],

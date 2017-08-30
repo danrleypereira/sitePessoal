@@ -176,3 +176,11 @@ body {
 	padding-top: 32px;
 	@extend %heading__alpha;
 }
+
+img + em {
+	display: block;
+	text-align: center;
+	font-size: 0.7em;
+	font-family: helvetica, sans-serif;
+	color: #121010;
+}

@@ -1,21 +1,22 @@
 ---
 layout: mohawk/page
-title: About Danrley Willyan
+title: Sobre Danrley Willyan
 body__class: standard
 ---
 
-## Preface
+## Prefácio
 
-I completed a degree in Games and Interactivity (Arts) in 2010, with subjects scattered across the history of media in Brasil, 3D modeling and animation, game design, and web development. I have dabbled in web for a long time, starting with table layouts and Frontpage and like most people, I got into web because my band needed a website. But I really took to it after learning about semantics and what you can do with CSS.
+Eu não completei a faculdade, comecei fazendo Engenharia de Software na Universidade de Brasília em 2015; porém me sentia tolido dentro da metodologia utilizada. Participei de um curso de usabilidade e interatividade com foco em experiência de usuário e interface de usuário (UX e UI). Desde o primeiro semestre ajudei um amigo formando com desenvolvimento front-end (jquery, html e css) e um pouco de backend usando JavaScript(apanhei muito até começar a pegar o jeito da coisa). Continuei aprendendo e apanhando por muito tempo.
 
-## Work
-I started out as a wee front-end developer at <cite>Mintleaf Studio</cite> stumbling around a CMS I had never used and editing CSS I barely understood. I quickly weaseled my way up to lead developer on some large projects and became lead of mobile development as well as being the go-to guy for accessibility.
+## Trabalho
 
-From there I became part of the <cite>Soul Digital</cite> family where I was exposed to all aspects of web development. I was able to branch out of front end development and dabble in PHP, use git at a professional level and learn about deployment techniques. Our time together was short but extremely enjoyable.
+Eu participei de alguns projetos na faculdade com o foco no front-end usando html e CSS e, em um projeto específico, utilizei bootstrap. Fiz um [site](https://estudantenet-29cad.firebaseapp.com/) usando polymer e componentes web, neste momento estou trabalhando como desenvolvedor no <cite>GamaCidadão</cite>, utilizando CMS e na <cite>RootWare</cite> utilizando bibliotecas JavaScript(Mongo-DB, Polymer, Node-js), html e CSS.
 
-Earlier this year I started a new role at <cite>isobar</cite>'s Brasilia studio as, you guessed it, a front end developer!
+Uso o git em nível professional e aprendo sobre Engenharia de Software, coisas como gestão de projetos, metodologias e frameworks, além de começar a utilizar DevOps (Desenvolvedor e Operações) para facilitar meu trabalho e o da minha equipe. Além de utilizarmos desenvolvimento ágil para diminuir as lacunas entre negócio, operação e desenvolvimento.
 
-## Play
-I am a gamer (hence the degree) and nothing much can compare with online <abbr title="First Person Shooter">FPS</abbr>'s like Battlefield. I have an Xbox controller hooked up for action / adventure games (Assassins Creed, Darksiders). We recently moved house to which I found my old N64 in a box complete with working controllers, Zelda, Goldeneye, Mario and Mario Kart, awesome.
+## Projetos Sociais
 
-I also play bass guitar, not as much as I'd like to these days but I still enjoy a good session.
+Dou aulas particulares de matemática, física, química, história e filosofia; estudei metologias para dar aula, como também estudei alguns temas sobre didática. Tenho grande inspiração na escola da ponte de Portugal onde vejo que a metodologia funcionou e o aluno se sente estimulado a estudar.
+
+## Espiritualidade
+Sou um Theta Healer com certificado internacional.

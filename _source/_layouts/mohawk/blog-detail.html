@@ -16,7 +16,7 @@
 			{% endif %}
 
 				<span class="meta__date">
-					{{ page.date | date_to_long_string }}
+					{{ page.date | date: '%A %e %B %Y' }}
 				</span>
 
 				{% if page.tags.size > 0 %}

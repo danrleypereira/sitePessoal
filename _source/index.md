@@ -1,10 +1,10 @@
 ---
 layout: mohawk/home
-seo__desc: Danrley Willyan is a front end web developer who builds mobile first accessible web sites
-seo__key: front end, frontend, front-end, front end developer, responsive, responsive design, acessibility
+seo__desc: Danrley Willyan é um desenvolvedor front end para a web que desenvolve primeiramente web sites acessiveis para celular
+seo__key: front end, frontend, front-end, front end desenvolvedor, responsivo, design designer, acessibilidade
 body__class: home
 ---
 
-Oh hi! My name is Danrley Willyan
+Olá! Meu nome é Danrley Willyan
 
-I'm a web developer who loves CSS, semantic HTML, standards-driven development, the mobile web and accessibility.
+Eu sou um desenvolvedor que ama CSS, semântica HTML, material design, componentes web, desenvolvimento dirigido por padrões, web mobile e acessibilidade. Além de desenvolvimento back-end usando bibliotecas JavaScript.
