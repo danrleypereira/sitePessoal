@@ -4,11 +4,14 @@ excerpt : Localização dos chakras e detalhes
 comments : true
 seo__desc : Aprendendo sobre os chakras e suas funções
 seo__key : chakras, chakra magno, Muladhara, SVADHISTHANA, MANIPURA
+related : ESPIRITUALIDADE E CONSCIÊNCIA
 icons : code-fork
 ---
 Os chakras são canais dentro do corpo humano (nadis) por onde circula nossa energia vital (o prana) que nutre órgãos e sistemas.
-![chakras gif](/content/images/chacras.gif)
 <!-- /intro -->
+
+![chakras gif](/content/images/chacras.gif)
+
 É através dos nadis (meridianos) – caminhos invisíveis dentro do nosso organismo – que a energia vital caminha por todo o nosso corpo e chega aos chakras, em pontos que concentram vibrações mais específicas.
 
 ## Muladhara: Chakra Base

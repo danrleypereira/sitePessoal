@@ -61,7 +61,7 @@ gulp.task('serve', function () {
 
 	browserSync.init({
 		notify: false,
-		port: 9000,
+		port: 5000,
 		server: {
 			baseDir: "./_site",
 			middleware: hygienist("./_site")
@@ -119,8 +119,8 @@ gulp.task('rsync', ['jekyll:prod'], function() {
 		incremental: true,
 		clean: true,
 		root: '_site',
-		destination: 'www/danrleywillyan.com.au/_site',
-		hostname: 'danrleywillyan.com.au',
+		destination: 'danrleywillyan.firebaseapp.com/_site',
+		hostname: 'danrleywillyan.firebaseapp.com',
 		progress: true
 	}));
 });

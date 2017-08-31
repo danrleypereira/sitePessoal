@@ -5,7 +5,7 @@
 .m-strip {
 	padding-top: 32px;
 	padding-bottom: 32px;
-	background-color: #becbd9;
+	background-color: #5bf0cb;
 	background-image: url('../images/noise.png');
 	background-attachment: fixed;
 
@@ -25,9 +25,9 @@
 	}
 
 	&.t--bold {
-		background-color: #8e389a;
+		background-color: #5bf0cb;
 		color: #170918;
-		text-shadow: 0 1px 0 #ac4ab3;
+		text-shadow: 0 2px 0 #b5f2e1;
 		font-family: $font__body--alt;
 		text-align: center;
 	}

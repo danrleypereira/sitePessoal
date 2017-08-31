@@ -13,6 +13,3 @@ _site/
 *.map
 notes.md
 
-# firebase files
-.firebaserc
-.firebase.json

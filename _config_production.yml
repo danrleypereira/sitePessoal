@@ -20,3 +20,4 @@ defaults:
     values:
       layout: "mohawk/blog-detail"
       body__class: "standard"
+
