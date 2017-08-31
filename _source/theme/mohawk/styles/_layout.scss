@@ -40,7 +40,7 @@ body {
 // <body>, each page can assign a class to alter the layout
 .layout {
 	@extend %t-texture;
-	background-color: #a6b9cb;
+	background-color: #a1c8ef;
 
 	.page__header {
 		padding-top: 16px;
@@ -48,7 +48,7 @@ body {
 	}
 
 	&.-home {
-		background-color: #b146c0;
+		background-color: #11c699;
 
 		.page__footer { display: none; }
 	}

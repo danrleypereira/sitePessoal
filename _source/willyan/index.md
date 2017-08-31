@@ -1,5 +1,5 @@
 ---
 layout: mohawk/blog-list
-title: Recent Posts
+title: Artigos Recentes
 body__class: standard
 ---

@@ -9,11 +9,10 @@ seo__key: notícia, gama, junta militar, admistradora
 related : Bandido bom é bandido morto
 icons : wrench
 ---
+Como todos sabem, no Brasil a apresentação de jovens ao serviço militar é obrigatório. Nesta sexta-feira (25) houve uma solenidade na praça cívica do Gama para dispensa dos jovens e entrega do CDI (Certificado de Dispensa de Incorporação). Foram dispensados apróximadamente 300 jovens.
+<!-- /intro -->
 ![capa](/content/images/noticia/CDI-1.jpg)
 *Presidente da Junta Militar e jovens que receberam a CDI*
-<!-- /intro -->
-
-Como todos sabem, no Brasil a apresentação de jovens ao serviço militar é obrigatório. Nesta sexta-feira (25) houve uma solenidade na praça cívica do Gama para dispensa dos jovens e entrega do CDI (Certificado de Dispensa de Incorporação). Foram dispensados apróximadamente 300 jovens.
 
 O evento contou com a presença de várias autoridades militares, administrativas e civis. Estiveram no local a vice-presidente da OAB, Graciela Slongo, o presidente da comissão de esporte e lazer da OAB, doutor Gilson Carlos, o gerente de comunicação da Faciplac, João Rodrigues, a administradora do Gama, Maria Antônia, o capitão de fragata da Marinha do Brasil, comandante Fábio Tayarol, o delegado da 20ª delegacia de polícia Doutor Francisco, o presidente da Junta Militar do Gama, sargento Marcos Tadeu, dentre outros. O evento contou com, aproximadamente, 60 pessoas, além dos jovens que receberam a dispensa.
 
