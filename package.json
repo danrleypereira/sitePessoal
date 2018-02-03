@@ -1,11 +1,11 @@
 {
-  "name": "www.danrleywillyan.com.au",
+  "name": "www.danrleywillyan-blog.firebaseapp.com",
   "version": "1.0.1",
   "description": "The website of Danrley Willyan",
   "author": "Danrley Willyan",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Piderman/danrleywillyan.com.au"
+    "url": "https://github.com/danrleywillyan/sitePessoal"
   },
   "devDependencies": {
     "browser-sync": "~2.8.2",

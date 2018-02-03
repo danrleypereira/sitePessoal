@@ -106,7 +106,7 @@ gulp.task('scripts:prod', function () {
 		.pipe(concat('app.js'))
 		.pipe(gulp.dest('_source/theme/mohawk/build/scripts'))
 		.pipe(uglify())
-		.pipe(rename('app.min.js'))
+		.pipe(rename('main.js'))
 		.pipe(gulp.dest('_source/theme/mohawk/build/scripts'));
 });
 
